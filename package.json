@@ -1,4 +1,19 @@
 {
   "name": "Oscar",
-  "version": "1.0"
+  "version": "1.0",
+  "description": "Example theme.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andypotanin/oscar-ghost.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andypotanin/oscar-ghost/issues"
+  },
+  "homepage": "https://github.com/andypotanin/oscar-ghost#readme",
+  "dependencies": {}  
 }
